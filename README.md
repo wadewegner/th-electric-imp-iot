@@ -1,14 +1,4 @@
-# SFDX  App
+# th-electric-imp-iot
 
-## Dev, Build and Test
-
-
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
-
+sfdx waw:connectedapp:create -c https://agent.electricimp.com/<ENDPOINT> -n "Electric_Imp_SmartFridge" -l "Electric Imp SmartFridge" -s Api -e <youremail>
 
