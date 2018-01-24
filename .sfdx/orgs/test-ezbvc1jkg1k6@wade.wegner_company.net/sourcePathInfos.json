@@ -1,0 +1,413 @@
+[
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516742900104,
+            "changeTime": 1516742900104,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516742900104,
+            "changeTime": 1516742900104,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1516744038925,
+            "changeTime": 1516744038925,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1516742900105,
+            "changeTime": 1516742900105,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1516742934017,
+            "changeTime": 1516742934017,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/SmartFridge__c/SmartFridge__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/SmartFridge__c/SmartFridge__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2195,
+            "modifiedTime": 1516743695989,
+            "changeTime": 1516743695989,
+            "contentHash": "e9c01f6f9e50fe3233bbf179738ab5b41863c7a0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/SmartFridge__c/fields/deviceId__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/SmartFridge__c/fields/deviceId__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 361,
+            "modifiedTime": 1516743695990,
+            "changeTime": 1516743695990,
+            "contentHash": "2902dd0f03a5aa28ae78f3c79bf116af46458d7c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/SmartFridge__c/fields/door__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/SmartFridge__c/fields/door__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 793,
+            "modifiedTime": 1516743695991,
+            "changeTime": 1516743695991,
+            "contentHash": "128cc18c0a3342a11cfbf53ca41222fbb96ec8e8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/SmartFridge__c/fields/humidity__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/SmartFridge__c/fields/humidity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 389,
+            "modifiedTime": 1516743695991,
+            "changeTime": 1516743695991,
+            "contentHash": "a7da4cdbbfe2ab4e33315bd3010e0304ea154947",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/SmartFridge__c/fields/temperature__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/SmartFridge__c/fields/temperature__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 395,
+            "modifiedTime": 1516743695991,
+            "changeTime": 1516743695991,
+            "contentHash": "81946219331ba35e3252266d0c25345f6f72085f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/SmartFridge__c/fields/ts__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/SmartFridge__c/fields/ts__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 302,
+            "modifiedTime": 1516743695992,
+            "changeTime": 1516743695992,
+            "contentHash": "c896f5755bbfae25d48a2d18eab4fc92c5d06c88",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/layouts/SmartFridge__c-SmartFridge Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/layouts/SmartFridge__c-SmartFridge Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2630,
+            "modifiedTime": 1516743695998,
+            "changeTime": 1516743695998,
+            "contentHash": "d498c1103a4f0310bd2dd5470feb41e00e99350e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18073,
+            "modifiedTime": 1516743696010,
+            "changeTime": 1516743696010,
+            "contentHash": "02603785c4c4b32946220126ef6ee87a058afc30",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5038,
+            "modifiedTime": 1516743696012,
+            "changeTime": 1516743696012,
+            "contentHash": "c91260aed2f20ae6cbe48beaf3c439e9a421ae7d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5038,
+            "modifiedTime": 1516743696015,
+            "changeTime": 1516743696015,
+            "contentHash": "c91260aed2f20ae6cbe48beaf3c439e9a421ae7d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5376,
+            "modifiedTime": 1516743696021,
+            "changeTime": 1516743696021,
+            "contentHash": "6f9e9b82dadfeb995e51d6729cb689253c2dc53b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/SmartFridge__c",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/SmartFridge__c",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516743695990,
+            "changeTime": 1516743695990,
+            "contentHash": "cee88c013cc40adf888a8528beba1751c2549285",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1516744274712,
+            "changeTime": 1516744274712,
+            "contentHash": "d7b54047b7afc17cb32ebc3792c64757b210845b"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/SmartFridge__c/fields",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/SmartFridge__c/fields",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1516743695992,
+            "changeTime": 1516743695992,
+            "contentHash": "b3fd9dabfb348b56a0cb4ad64f06575712e7bdad",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516743695998,
+            "changeTime": 1516743695998,
+            "contentHash": "de2608064df3dbfb59679cb568dd12dee7f1b53d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1516743696021,
+            "changeTime": 1516743696021,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/permissionsets/electimp.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/permissionsets/electimp.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 1360,
+            "modifiedTime": 1516744038926,
+            "changeTime": 1516744038926,
+            "contentHash": "515ace017b250a279c3d5077285c8c2979008bf9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516744038926,
+            "changeTime": 1516744038926,
+            "contentHash": "3006bc37612f22352d9060c70568ae833532666e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/Smart_Fridge_Reading__e/Smart_Fridge_Reading__e.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/Smart_Fridge_Reading__e/Smart_Fridge_Reading__e.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 303,
+            "modifiedTime": 1516744274713,
+            "changeTime": 1516744274713,
+            "contentHash": "7d1a116f37bb4bf04deaa41e3716ca36372658ee"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/Smart_Fridge_Reading__e/fields/deviceId__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/Smart_Fridge_Reading__e/fields/deviceId__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 458,
+            "modifiedTime": 1516744274713,
+            "changeTime": 1516744274713,
+            "contentHash": "59c459cac2177ab73f9f5737a803e4a73f6fe63b"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/Smart_Fridge_Reading__e/fields/door__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/Smart_Fridge_Reading__e/fields/door__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 451,
+            "modifiedTime": 1516744274714,
+            "changeTime": 1516744274714,
+            "contentHash": "169f15a1d87da818a2b6607c346b449619634198"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/Smart_Fridge_Reading__e/fields/humidity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/Smart_Fridge_Reading__e/fields/humidity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 487,
+            "modifiedTime": 1516744274714,
+            "changeTime": 1516744274714,
+            "contentHash": "9de4ff51366470d4f56bd06aa38a68bb5ace4c71"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/Smart_Fridge_Reading__e/fields/temperature__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/Smart_Fridge_Reading__e/fields/temperature__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 493,
+            "modifiedTime": 1516744274714,
+            "changeTime": 1516744274714,
+            "contentHash": "2a44739b0d8dbf166e7e8810e9f182e55c1645b7"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/Smart_Fridge_Reading__e/fields/ts__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/Smart_Fridge_Reading__e/fields/ts__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 400,
+            "modifiedTime": 1516744274715,
+            "changeTime": 1516744274715,
+            "contentHash": "53657ae92b23cbb104663c6c83aa0fc7219acc8d"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/Smart_Fridge_Reading__e",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/Smart_Fridge_Reading__e",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1516744274713,
+            "changeTime": 1516744274713,
+            "contentHash": "b177eb400b7b844dc76fdd80a367719e0bf53819"
+        }
+    ],
+    [
+        "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/Smart_Fridge_Reading__e/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/wade.wegner/Projects/Github/WadeWegner/trailhead/elecimp/force-app/main/default/objects/Smart_Fridge_Reading__e/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1516744274715,
+            "changeTime": 1516744274715,
+            "contentHash": "b3fd9dabfb348b56a0cb4ad64f06575712e7bdad"
+        }
+    ]
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OrchestrationContext xmlns="http://soap.sforce.com/2006/04/metadata">
+    <events>
+        <platformEvent>Smart_Fridge_Reading__e</platformEvent>
+        <platformEventPrimaryKey>deviceId__c</platformEventPrimaryKey>
+    </events>
+    <masterLabel>Smart Fridge Context</masterLabel>
+    <primaryKeyDataType>String</primaryKeyDataType>
+</OrchestrationContext>
